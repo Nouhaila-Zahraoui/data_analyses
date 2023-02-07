@@ -8,7 +8,7 @@ le projet represent une analyse des données de la base de données Iris en util
 
 <h3>ANOVA: </h3>
 
-<img src="screens/ANOVA.PNG">
+<img src="screens/Anova.PNG">
 
 <h3>CAH: </h3>
 
@@ -16,7 +16,7 @@ le projet represent une analyse des données de la base de données Iris en util
 
 <h3>KMEANS: </h3>
 
-<img src="screens/KMEANS.PNG">
+<img src="screens/K-MEANS.PNG">
 
 <h3>REGRESSION LINEAIRE: </h3>
 
